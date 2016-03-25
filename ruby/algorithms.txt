@@ -1,0 +1,19 @@
+Release 0: Equip Your Robot
+
+For each button in the elevator:
+  -Identify the buttons that are labeled with a number
+      -Count all of these buttons in order from left to right
+      -When the the row ends skip to the next row and repeat step 2
+      -Continue until desired number is reached
+
+Release 1: Find a Real-Life Algorithm
+
+Getting from Point A to Point B in the shortest amount of time
+
+For each possible route:
+  - Identify distance
+  - Identify shortest route duration
+    - While choosing the shortest route check for traffic
+        -If traffic, choose next route
+        -If no traffic choose that route
+
