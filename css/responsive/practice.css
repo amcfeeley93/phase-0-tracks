@@ -1,5 +1,6 @@
 
-body {font-size: 100%;}
+body {font-size: 100%;
+        width: 300px;}
 .sidebar {background: red;}
 .flowers {font-size:2em;
           color: white;
